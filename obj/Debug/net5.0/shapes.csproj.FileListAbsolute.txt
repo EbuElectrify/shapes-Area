@@ -1,0 +1,16 @@
+C:\Users\Chidera Judith\Documents\wellahealth school\ClassesAndMethods\shapes\bin\Debug\net5.0\shapes.exe
+C:\Users\Chidera Judith\Documents\wellahealth school\ClassesAndMethods\shapes\bin\Debug\net5.0\shapes.deps.json
+C:\Users\Chidera Judith\Documents\wellahealth school\ClassesAndMethods\shapes\bin\Debug\net5.0\shapes.runtimeconfig.json
+C:\Users\Chidera Judith\Documents\wellahealth school\ClassesAndMethods\shapes\bin\Debug\net5.0\shapes.runtimeconfig.dev.json
+C:\Users\Chidera Judith\Documents\wellahealth school\ClassesAndMethods\shapes\bin\Debug\net5.0\shapes.dll
+C:\Users\Chidera Judith\Documents\wellahealth school\ClassesAndMethods\shapes\bin\Debug\net5.0\ref\shapes.dll
+C:\Users\Chidera Judith\Documents\wellahealth school\ClassesAndMethods\shapes\bin\Debug\net5.0\shapes.pdb
+C:\Users\Chidera Judith\Documents\wellahealth school\ClassesAndMethods\shapes\obj\Debug\net5.0\shapes.csproj.AssemblyReference.cache
+C:\Users\Chidera Judith\Documents\wellahealth school\ClassesAndMethods\shapes\obj\Debug\net5.0\shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chidera Judith\Documents\wellahealth school\ClassesAndMethods\shapes\obj\Debug\net5.0\shapes.AssemblyInfoInputs.cache
+C:\Users\Chidera Judith\Documents\wellahealth school\ClassesAndMethods\shapes\obj\Debug\net5.0\shapes.AssemblyInfo.cs
+C:\Users\Chidera Judith\Documents\wellahealth school\ClassesAndMethods\shapes\obj\Debug\net5.0\shapes.csproj.CoreCompileInputs.cache
+C:\Users\Chidera Judith\Documents\wellahealth school\ClassesAndMethods\shapes\obj\Debug\net5.0\shapes.dll
+C:\Users\Chidera Judith\Documents\wellahealth school\ClassesAndMethods\shapes\obj\Debug\net5.0\ref\shapes.dll
+C:\Users\Chidera Judith\Documents\wellahealth school\ClassesAndMethods\shapes\obj\Debug\net5.0\shapes.pdb
+C:\Users\Chidera Judith\Documents\wellahealth school\ClassesAndMethods\shapes\obj\Debug\net5.0\shapes.genruntimeconfig.cache
